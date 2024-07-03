@@ -1,0 +1,6 @@
+[package]
+name = "briskit_editor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
